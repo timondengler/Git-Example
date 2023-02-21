@@ -1,0 +1,10 @@
+D:\01_Development\eke\git-example\DemoProject\bin\Debug\DemoProject.exe.config
+D:\01_Development\eke\git-example\DemoProject\bin\Debug\DemoProject.exe
+D:\01_Development\eke\git-example\DemoProject\bin\Debug\DemoProject.pdb
+D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.csprojAssemblyReference.cache
+D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.Properties.Resources.resources
+D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.csproj.GenerateResource.cache
+D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.csproj.CoreCompileInputs.cache
+D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.exe
+D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.pdb
+D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.MainForm.resources
