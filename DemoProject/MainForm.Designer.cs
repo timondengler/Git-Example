@@ -35,6 +35,7 @@ namespace DemoProject
             this.btnColor = new System.Windows.Forms.Button();
             this.btnClose = new System.Windows.Forms.Button();
             this.lblCounter = new System.Windows.Forms.Label();
+            this.btnTimon = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnClickThis
@@ -95,11 +96,22 @@ namespace DemoProject
             this.lblCounter.TabIndex = 5;
             this.lblCounter.Text = "0";
             // 
+            // btnTimon
+            // 
+            this.btnTimon.Location = new System.Drawing.Point(138, 108);
+            this.btnTimon.Name = "btnTimon";
+            this.btnTimon.Size = new System.Drawing.Size(75, 23);
+            this.btnTimon.TabIndex = 6;
+            this.btnTimon.Text = "btnTimon";
+            this.btnTimon.UseVisualStyleBackColor = true;
+            this.btnTimon.Click += new System.EventHandler(this.btnTimon_Click);
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(325, 145);
+            this.Controls.Add(this.btnTimon);
             this.Controls.Add(this.lblCounter);
             this.Controls.Add(this.btnClose);
             this.Controls.Add(this.btnColor);
@@ -121,6 +133,7 @@ namespace DemoProject
         private System.Windows.Forms.Button btnColor;
         private System.Windows.Forms.Button btnClose;
         private System.Windows.Forms.Label lblCounter;
+        private System.Windows.Forms.Button btnTimon;
     }
 }
 

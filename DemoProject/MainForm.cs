@@ -43,5 +43,11 @@ namespace DemoProject
         {
             Close();
         }
+
+        private void btnTimon_Click(object sender, EventArgs e)
+        {
+            Color randomColor = Color.FromArgb(rnd.Next(256), rnd.Next(256), rnd.Next(256));
+            BackColor = randomColor;
+        }
     }
 }
