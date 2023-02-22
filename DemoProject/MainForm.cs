@@ -41,7 +41,7 @@ namespace DemoProject
 
         private void btnClose_Click(object sender, EventArgs e)
         {
-
+            Close();
         }
     }
 }
