@@ -12,6 +12,7 @@ namespace DemoProject
 {
     public partial class MainForm : Form
     {
+        private Random rnd = new Random();
         public MainForm()
         {
             InitializeComponent();
@@ -29,7 +30,8 @@ namespace DemoProject
 
         private void btnColor_Click(object sender, EventArgs e)
         {
-
+            Color randomColor = Color.FromArgb(rnd.Next(256), rnd.Next(256), rnd.Next(256));
+            btnColor.BackColor = randomColor;
         }
 
         private void btnClose_Click(object sender, EventArgs e)

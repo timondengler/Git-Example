@@ -8,3 +8,14 @@ D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.csproj.CoreC
 D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.exe
 D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.pdb
 D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.MainForm.resources
+C:\Schule\3ITpro\ITL\git\aufgabe1\Git-Example\DemoProject\bin\Debug\DemoProject.exe.config
+C:\Schule\3ITpro\ITL\git\aufgabe1\Git-Example\DemoProject\bin\Debug\DemoProject.exe
+C:\Schule\3ITpro\ITL\git\aufgabe1\Git-Example\DemoProject\bin\Debug\DemoProject.pdb
+C:\Schule\3ITpro\ITL\git\aufgabe1\Git-Example\DemoProject\obj\Debug\DemoProject.csproj.AssemblyReference.cache
+C:\Schule\3ITpro\ITL\git\aufgabe1\Git-Example\DemoProject\obj\Debug\DemoProject.csproj.SuggestedBindingRedirects.cache
+C:\Schule\3ITpro\ITL\git\aufgabe1\Git-Example\DemoProject\obj\Debug\DemoProject.MainForm.resources
+C:\Schule\3ITpro\ITL\git\aufgabe1\Git-Example\DemoProject\obj\Debug\DemoProject.Properties.Resources.resources
+C:\Schule\3ITpro\ITL\git\aufgabe1\Git-Example\DemoProject\obj\Debug\DemoProject.csproj.GenerateResource.cache
+C:\Schule\3ITpro\ITL\git\aufgabe1\Git-Example\DemoProject\obj\Debug\DemoProject.csproj.CoreCompileInputs.cache
+C:\Schule\3ITpro\ITL\git\aufgabe1\Git-Example\DemoProject\obj\Debug\DemoProject.exe
+C:\Schule\3ITpro\ITL\git\aufgabe1\Git-Example\DemoProject\obj\Debug\DemoProject.pdb
