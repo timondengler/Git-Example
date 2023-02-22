@@ -21,5 +21,20 @@ namespace DemoProject
         {
             lblHelloWorld.Text = "Hello World!";
         }
+
+        private void btnCounter_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnColor_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnClose_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
