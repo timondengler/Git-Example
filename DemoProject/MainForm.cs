@@ -13,6 +13,8 @@ namespace DemoProject
     public partial class MainForm : Form
     {
         private Random rnd = new Random();
+        int Counter;
+
         public MainForm()
         {
             InitializeComponent();
@@ -23,9 +25,12 @@ namespace DemoProject
             lblHelloWorld.Text = "Hello World!";
         }
 
+
+
         private void btnCounter_Click(object sender, EventArgs e)
         {
-
+            Counter++;
+            lblCounter.Text = ""+ Counter;
         }
 
         private void btnColor_Click(object sender, EventArgs e)

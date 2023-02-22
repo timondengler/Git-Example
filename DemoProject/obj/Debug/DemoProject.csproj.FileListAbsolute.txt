@@ -8,6 +8,7 @@ D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.csproj.CoreC
 D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.exe
 D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.pdb
 D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.MainForm.resources
+<<<<<<< HEAD
 C:\Schule\3ITpro\ITL\git\aufgabe1\Git-Example\DemoProject\bin\Debug\DemoProject.exe.config
 C:\Schule\3ITpro\ITL\git\aufgabe1\Git-Example\DemoProject\bin\Debug\DemoProject.exe
 C:\Schule\3ITpro\ITL\git\aufgabe1\Git-Example\DemoProject\bin\Debug\DemoProject.pdb
@@ -19,3 +20,16 @@ C:\Schule\3ITpro\ITL\git\aufgabe1\Git-Example\DemoProject\obj\Debug\DemoProject.
 C:\Schule\3ITpro\ITL\git\aufgabe1\Git-Example\DemoProject\obj\Debug\DemoProject.csproj.CoreCompileInputs.cache
 C:\Schule\3ITpro\ITL\git\aufgabe1\Git-Example\DemoProject\obj\Debug\DemoProject.exe
 C:\Schule\3ITpro\ITL\git\aufgabe1\Git-Example\DemoProject\obj\Debug\DemoProject.pdb
+=======
+C:\EKE\3ITpro\INFT Kartnaller\GIT Repository\git-example Timon\Git-Example\DemoProject\bin\Debug\DemoProject.exe.config
+C:\EKE\3ITpro\INFT Kartnaller\GIT Repository\git-example Timon\Git-Example\DemoProject\bin\Debug\DemoProject.exe
+C:\EKE\3ITpro\INFT Kartnaller\GIT Repository\git-example Timon\Git-Example\DemoProject\bin\Debug\DemoProject.pdb
+C:\EKE\3ITpro\INFT Kartnaller\GIT Repository\git-example Timon\Git-Example\DemoProject\obj\Debug\DemoProject.csproj.AssemblyReference.cache
+C:\EKE\3ITpro\INFT Kartnaller\GIT Repository\git-example Timon\Git-Example\DemoProject\obj\Debug\DemoProject.csproj.SuggestedBindingRedirects.cache
+C:\EKE\3ITpro\INFT Kartnaller\GIT Repository\git-example Timon\Git-Example\DemoProject\obj\Debug\DemoProject.MainForm.resources
+C:\EKE\3ITpro\INFT Kartnaller\GIT Repository\git-example Timon\Git-Example\DemoProject\obj\Debug\DemoProject.Properties.Resources.resources
+C:\EKE\3ITpro\INFT Kartnaller\GIT Repository\git-example Timon\Git-Example\DemoProject\obj\Debug\DemoProject.csproj.GenerateResource.cache
+C:\EKE\3ITpro\INFT Kartnaller\GIT Repository\git-example Timon\Git-Example\DemoProject\obj\Debug\DemoProject.csproj.CoreCompileInputs.cache
+C:\EKE\3ITpro\INFT Kartnaller\GIT Repository\git-example Timon\Git-Example\DemoProject\obj\Debug\DemoProject.exe
+C:\EKE\3ITpro\INFT Kartnaller\GIT Repository\git-example Timon\Git-Example\DemoProject\obj\Debug\DemoProject.pdb
+>>>>>>> c4e8dc68c3613aaa88605bc1148d9822f0a4c41c
